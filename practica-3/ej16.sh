@@ -1,3 +1,4 @@
+#!/bin/bash
 #Verify that there is a parameter
 if [ $# != 1 ]; then
 	echo "pasa parametro, baby"
